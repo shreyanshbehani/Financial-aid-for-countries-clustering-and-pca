@@ -1,5 +1,5 @@
 # Financial-aid-for-countries-clustering-and-pca
-### Understanding of Data and Approach 
+# Understanding of Data and Approach 
 From the data we can see that it is of unsupervised machine learning problem.
 The features in the dataset is aboumut the various indices of the countries, based on those indices we have to determine which of these countries require the financial aid during any disaster.
 As these features or indices are derived from different parameters and metrics if we use scaling for these features it would might loose there significance.
